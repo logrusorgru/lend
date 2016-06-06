@@ -155,10 +155,6 @@ func (c *Config) Check() (err error) {
 	return
 }
 
-// ErrSizeLimit means a length of a piece
-// of data exceeds MaxSize option.
-var ErrSizeLimit = errors.New("size limit exceeded")
-
 // NewReader creates Reader interface over given
 // io.Reader using given *Config. If *Config
 // is nil then DefaultConfig() is used. If given
@@ -272,6 +268,8 @@ func (r *reader) findHeading() (err error) {
 var (
 	// ErrNegativeLength occurs when a length value is negative.
 	ErrNegativeLength = errors.New("negative length")
+	// ErrSizeLimit means a length of a piece of data exceeds MaxSize option.
+	ErrSizeLimit = errors.New("size limit exceeded")
 )
 
 // validate length
