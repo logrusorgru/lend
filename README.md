@@ -17,6 +17,7 @@ Get
 go get -u github.com/logrusorgru/lend
 ```
 Test
+```
 go test github.com/logrusorgru/lend
 ```
 
