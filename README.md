@@ -1,6 +1,8 @@
 lend
 ====
 
+[![Join the chat at https://gitter.im/logrusorgru/lend](https://badges.gitter.im/logrusorgru/lend.svg)](https://gitter.im/logrusorgru/lend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GoDoc](https://godoc.org/github.com/logrusorgru/lend?status.svg)](https://godoc.org/github.com/logrusorgru/lend)
 [![WTFPL License](https://img.shields.io/badge/license-wtfpl-blue.svg)](http://www.wtfpl.net/about/)
 [![Build Status](https://travis-ci.org/logrusorgru/lend.svg)](https://travis-ci.org/logrusorgru/lend)
