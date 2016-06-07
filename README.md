@@ -11,6 +11,8 @@ lend
 
 Length delimited reader/writer/framing for TCP/UDP etc.
 
+![lasing](https://github.com/logrusorgru/lasing/gopher_lend.png)
+
 # Installation
 
 Get
