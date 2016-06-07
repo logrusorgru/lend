@@ -7,7 +7,7 @@ lend
 [![Coverage Status](https://coveralls.io/repos/logrusorgru/lend/badge.svg?branch=master)](https://coveralls.io/r/logrusorgru/lend?branch=master)
 [![GoReportCard](http://goreportcard.com/badge/logrusorgru/lend)](http://goreportcard.com/report/logrusorgru/lend)
 [![Gitter](https://badges.gitter.im/logrusorgru/lend.svg)](https://gitter.im/logrusorgru/lend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) | 
-[![paypal donate](https://img.shields.io/badge/paypal%20%24-donate-orange.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AVFWLEREA97PU)
+[![paypal donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AVFWLEREA97PU)
 
 Length delimited reader/writer/framing for TCP/UDP etc.
 
