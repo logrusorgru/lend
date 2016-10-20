@@ -162,7 +162,7 @@ type pool struct {
 }
 
 func (p *pool) Put(piece []byte) {
-	if cap(piece) > maxSize {
+	if cap(piece) <= maxSize {
 		p.Pool.Put(piece)
 	}
 	// drop large pieces
